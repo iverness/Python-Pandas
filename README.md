@@ -1,1 +1,1 @@
-### Python-Pands
+### Karpov courses project
